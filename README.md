@@ -2,6 +2,9 @@
 
 Goal: Build tools to assist Slack channel moderators in creating a welcoming, inclusive space for GDEs while supporting community growth and engagement.
 
+### What's with the name of this Repo?
+I'm glad you asked. USS Discovery One has a HAL 9000, I thought it only appropriate that GDE had something similar, though slightly less focused on completing the mission at all costs :) But if you have a better name, feel free to make suggestions.
+
 # How to contribute
 Contributions from any GDE with a desire to improve community tools are completely welcome. For inspireation, see the list of "How Might We..." questions below or feel free to improve them in this document.
 
