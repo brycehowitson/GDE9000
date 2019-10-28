@@ -1,10 +1,15 @@
 # GDE9000
-Tools to support GDE Slack community.
 
+Goal: Build tools to assist Slack channel moderators in creating a welcoming, inclusive space for GDEs while supporting community growth and engagement.
 
-## Goal
-Build tools to assist Slack channel moderators in creating a welcoming, inclusive space for GDEs while supporting community growth and engagement.
+# How to contribute
+Contributions from any GDE with a desire to improve community tools are completely welcome. For inspireation, see the list of "How Might We..." questions below or feel free to improve them in this document.
 
+If you have a feature idea, create a rough prototype (code, storyboard, conversation script) using the example structure found in Prototypes/feature-example. If you'd like to contribue working code contact brycehowitson@gmail to get setup.
+
+Once you've added a prototype or improved the documentation, make a Pull Requst on the repo.
+
+---
 
 ## How might we... questions
 1. HMW Create a welcoming environment for new GDEs
@@ -26,3 +31,13 @@ Build tools to assist Slack channel moderators in creating a welcoming, inclusiv
 17. HMW deal with Free Slack’s limitations
 18. HMW maintain momentum after this event
 19. HMW support community career/professional goals
+
+
+---
+
+## Findings/Solutions from The 2019 Global Summit Design Sprint
+
+- Make setup and organization easier by pulling data from GDE App and Hoteliers
+- Suggest contact info, channels to join, people to contact and generate bio info from above data sets
+- Create a "points" system to show appreciation and engagement. Points can be gifted to others or awarded for providing reviews, edits, suggestions, etc. Points "may" be a trackable GDE Activity
+- Crowdsource event information. This may include tips for what to bring/things to do in various places around the world, suggestions for content or audience types, ride sharing, etc.
